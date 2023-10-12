@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sa9174
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on projects related to c
-- 📫 Reach me by mail
+- 👋 Hi, I’m Siddharth
+- 👀 Pursuing B.Tech in CSE
 
 <!---
 sa9174/sa9174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
