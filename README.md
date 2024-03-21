@@ -10,6 +10,9 @@
 <a href="https://www.instagram.com/sid.agarwal23/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30px">
 </a>
+<a href="https://www.hackerrank.com/sa9174/" target="_blank">
+    <img src="./images/hcc.png" height="30px">
+</a>
 
 </p>
 
