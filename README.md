@@ -15,7 +15,7 @@
 
 # I'm [Siddharth Agarwal]
 
-![Profile Views](https://komarev.com/ghpvc/?username=Siddharth2312&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sa9174&label=Profile%20views&color=0e75b6&style=flat)
 
 Passionate front end developer with 1 year of experience in coding, specializing in web development.
 
