@@ -4,7 +4,7 @@
 <a href="https://github.com/Siddharth2312" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30px">
 </a>
-<a href="www.linkedin.com/in/siddharth-agarwal-tech" target="_blank">
+<a href="https://www.linkedin.com/in/siddharth-agarwal-a74002294/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30px">
 </a>
 <a href="https://www.instagram.com/sid.agarwal23/" target="_blank">
