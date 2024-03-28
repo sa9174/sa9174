@@ -20,7 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sa9174&label=Profile%20views&color=0e75b6&style=flat)
 
-Passionate front end developer with 1 year of experience in coding, specializing in web development.
+Passionate Front End Developer with 1 year of experience in coding, specializing in web development.
 
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:siddharthagarwal2312@gmail.com).
