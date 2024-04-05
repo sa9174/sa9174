@@ -16,7 +16,7 @@
 
 </p>
 
-# I'm [Siddharth Agarwal  ]
+# I'm [Siddharth Agarwal   ]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sa9174&label=Profile%20views&color=0e75b6&style=flat)
 
