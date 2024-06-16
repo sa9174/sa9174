@@ -55,6 +55,6 @@ Passionate Front End Developer with 1 year of experience in coding, specializing
 
 <br>
 
-> Note: Passionate Front End Developer with 1 year of experience in coding, specializing in Web Development. 
+> Note: Passionate Front End Developer with 1 year of experience in coding, Specializing in Web Development. 
 
 </details>
